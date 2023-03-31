@@ -1,6 +1,6 @@
 Name:		texlive-tikzmarmots
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Drawing little marmots in TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzmarmots
