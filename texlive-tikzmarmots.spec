@@ -3,7 +3,7 @@ Version:	71076
 Release:	1
 Summary:	Drawing little marmots in TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzmarmots
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikzmarmots
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzmarmots.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzmarmots.doc.r%{version}.tar.xz
